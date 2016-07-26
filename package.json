@@ -1,7 +1,7 @@
 {
   "name": "gulp-seajs-transport-wx",
   "version": "0.0.1",
-  "description": "Uesd for transporting modules to seajs modules,and set id based on filename",
+  "description": "Uesd for transporting modules to seajs modules,and setting id based on filename",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
